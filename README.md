@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-<p>This is a simple application with node.js</P>
+<p>This is a simple web application with node.js for user authentication</P>
 
 <h1>Packeges</h1>
 <ul>
