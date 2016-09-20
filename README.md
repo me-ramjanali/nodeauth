@@ -26,4 +26,4 @@ to run the server go to your cmd and type
 <pre>
   <code>$ npm start</code>
 </pre>
-<p>Browse <a href="http://localhost:8080">http://localhost:8080</a> in the browser <br/><h3>enjoy!</h3></p>
+<p>Browse <a href="http://localhost:3000">http://localhost:3000</a> in the browser <br/><h3>enjoy!</h3></p>
