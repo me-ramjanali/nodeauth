@@ -20,8 +20,9 @@
 <pre>
   <code>$ npm install</code>
 </pre>
+<p>change the db path in the .bat file before running the server and then run the .bat file.</p>
 <h2>Browse</h2>
-on your cmd type
+to run the server go to your cmd and type
 <pre>
   <code>$ npm start</code>
 </pre>
