@@ -21,4 +21,8 @@
   <code>$ npm install</code>
 </pre>
 <h2>Browse</h2>
+on your cmd type
+<pre>
+  <code>$ npm start</code>
+</pre>
 <p>Browse <a href="http://localhost:8080">http://localhost:8080</a> in the browser <br/><h3>enjoy!</h3></p>
