@@ -1,0 +1,1 @@
+"C:\MongoDB\Server\3.0\bin\mongod.exe" --dbpath "F:\node_projects\nodeauth\mongodb\data"
